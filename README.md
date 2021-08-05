@@ -16,6 +16,8 @@ This page is primarily based on the [Objectification, Dehumanisation, and Otheri
   > Sexualization (or sexualisation) is to make something sexual in character or quality or to become aware of sexuality, especially in relation to men and women. Sexualization is linked to sexual objectification. According to the American Psychological Association, sexualization occurs when "individuals are regarded as sex objects and evaluated in terms of their physical characteristics and sexiness.
 * [Category:Feminism](https://en.wikipedia.org/wiki/Category:Feminism)
   > This category has the following 30 subcategories
+* [List of Feminist Literature - Wikipedia](https://en.wikipedia.org/wiki/List_of_feminist_literature)
+  > The following is a list of feminist literature, listed by year of first publication, then within the year alphabetically by title (using the English title rather than the foreign language title if available/applicable).
 
 ### Literature
 
