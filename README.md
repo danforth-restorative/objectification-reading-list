@@ -1,6 +1,6 @@
 # Literature on the Sexual Objectification of Women
 
-This page has been currently based upon the [Objectification, Dehumanisation, and Othering Course Guide 2019-20](https://www.ed.ac.uk/files/atoms/files/objectification_dehumanisation_and_othering_course_guide_2019-20.pdf).
+This page is primarily based on the [Objectification, Dehumanisation, and Othering Course Guide 2019-20](https://www.ed.ac.uk/files/atoms/files/objectification_dehumanisation_and_othering_course_guide_2019-20.pdf).
 
 > This course introduces leading philosophical accounts of objectification, dehumanisation, and othering, and investigates the degree of overlap between the three notions. We will also examine scepticism about the significance of these notions, looking closely at a number of case-studies in order to assess the plausibility of this kind of scepticism. These case-studies will include sexist pornography, epistemic injustice (Miranda Fricker’s term for ways in which one can be harmed in one’s capacity as an epistemic subject), and the roles of dehumanising language and imagery.
 
