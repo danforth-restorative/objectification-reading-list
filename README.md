@@ -1,8 +1,8 @@
-# Literature on the Sexual Objectification of Women
+# Literature regarding Objectification of Women
 
-This page is primarily based on the [Objectification, Dehumanisation, and Othering Course Guide 2019-20](https://www.ed.ac.uk/files/atoms/files/objectification_dehumanisation_and_othering_course_guide_2019-20.pdf).
+To this point, these resources have been mainly gathered from the [Objectification, Dehumanisation, and Othering Course Guide 2019-20](https://www.ed.ac.uk/files/atoms/files/objectification_dehumanisation_and_othering_course_guide_2019-20.pdf) as a jumping off point.
 
-> This course introduces leading philosophical accounts of objectification, dehumanisation, and othering, and investigates the degree of overlap between the three notions. We will also examine scepticism about the significance of these notions, looking closely at a number of case-studies in order to assess the plausibility of this kind of scepticism. These case-studies will include sexist pornography, epistemic injustice (Miranda Fricker’s term for ways in which one can be harmed in one’s capacity as an epistemic subject), and the roles of dehumanising language and imagery.
+> This course introduces leading philosophical accounts of objectification, dehumanisation, and othering, and investigates the degree of overlap between the three notions. We will also examine scepticism about the significance of these notions, looking closely at a number of case-studies in order to assess the plausibility of this kind of scepticism. 
 
 ## Wiki
 
@@ -16,12 +16,8 @@ This page is primarily based on the [Objectification, Dehumanisation, and Otheri
   > Sexualization (or sexualisation) is to make something sexual in character or quality or to become aware of sexuality, especially in relation to men and women. Sexualization is linked to sexual objectification. According to the American Psychological Association, sexualization occurs when "individuals are regarded as sex objects and evaluated in terms of their physical characteristics and sexiness.
 * [Category:Feminism](https://en.wikipedia.org/wiki/Category:Feminism)
   > This category has the following 30 subcategories
-* [List of Feminist Literature - Wikipedia](https://en.wikipedia.org/wiki/List_of_feminist_literature)
-  > The following is a list of feminist literature, listed by year of first publication, then within the year alphabetically by title (using the English title rather than the foreign language title if available/applicable).
 
 ### Literature
-
-It would appear that objectification of women is at the heart of feminist literature and philosophy.
 
 * [What Philosophy Can’t Teach Us About Sexual Objectification](https://www.degruyter.com/document/doi/10.4159/9780674286474-003/html), Nancy Bauer, in, *How To Do Things With Pornography*, 2015
   * [Book Reviews "How to do things with Pornography"](https://kiej.georgetown.edu/nancy-bauer-things-pornography-harvard-university-press-2015/)
@@ -84,6 +80,9 @@ It would appear that objectification of women is at the heart of feminist litera
   * [Wartime Diary](https://www.jstor.org/stable/10.5406/j.ctt13x1m4s) (2009)
   * [Diary of a Philosophy Student: Volume 1, 1926-27](https://www.jstor.org/stable/10.5406/j.ctt13x1m59) (2006)
   * [Philosophical Writings](https://www.jstor.org/stable/10.5406/j.ctt13x1m38) (2004)
+* [The Second Sex](https://www.sparknotes.com/lit/secondsex/summary/), Simone de Beauvoir, 1949 ([Introduction](https://www.sfu.ca/~decaste/OISE/page2/files/deBeauvoirIntro.pdf))
+  > De Beauvoir’s primary thesis is that men fundamentally oppress women by characterizing them, on every level, as the Other, defined exclusively in opposition to men. Man occupies the role of the self, or subject; woman is the object, the other. He is essential, absolute, and transcendent. She is inessential, incomplete, and mutilated. He extends out into the world to impose his will on it, whereas woman is doomed to immanence, or inwardness. He creates, acts, invents; she waits for him to save her. This distinction is the basis of all de Beauvoir’s later arguments.
+    * [Gregory B. Sadler – Simone de Beauvoir - 20th Century Philosophy](https://www.youtube.com/playlist?list=PL4gvlOxpKKIhXUUr6TM0EgdD-kxusDOA2) - I've found this playlist useful in digesting de Beauvoir's philosophy, including *The Second Sex*.
 
 #### [Nancy Bauer](https://en.wikipedia.org/wiki/Nancy_Bauer_(philosopher))
 
@@ -168,4 +167,3 @@ It would appear that objectification of women is at the heart of feminist litera
   - The Objectification Spectrum part 1 (Oxford University Press, July 2014)
   - The Objectification Spectrum part 2 (Oxford University Press, July 2014)
   - "Leaving Plato's Cave: Understanding and Transcending Our Objectification of Others" (July 29, 2016)
-
