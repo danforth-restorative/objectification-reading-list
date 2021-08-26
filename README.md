@@ -4,6 +4,18 @@ To this point, these resources have been mainly gathered from the [Objectificati
 
 > This course introduces leading philosophical accounts of objectification, dehumanisation, and othering, and investigates the degree of overlap between the three notions. We will also examine scepticism about the significance of these notions, looking closely at a number of case-studies in order to assess the plausibility of this kind of scepticism. 
 
+## Contents
+
+* [Wiki](#wiki)
+* [Literature](#literature)
+* [Authors](#authors)
+  * [Simone de Beauvoir](#simone-de-beauvoir)
+  * [Nancy Bauer](#nancy-bauer)
+  * [Martha Nussbaum](#martha-nussbaum)
+  * [Rae Langton](#rae-langton)
+  * [Andrea Dworkin](#andrea-dworkin)
+  * [Catharine MacKinnon](#catherine-mackinnon)
+
 ## Wiki
 
 * [Objectification - Wikipedia](https://en.wikipedia.org/wiki/Objectification)
@@ -17,7 +29,7 @@ To this point, these resources have been mainly gathered from the [Objectificati
 * [Category:Feminism](https://en.wikipedia.org/wiki/Category:Feminism)
   > This category has the following 30 subcategories
 
-### Literature
+## Literature
 
 * [What Philosophy Can’t Teach Us About Sexual Objectification](https://www.degruyter.com/document/doi/10.4159/9780674286474-003/html), Nancy Bauer, in, *How To Do Things With Pornography*, 2015
   * [Book Reviews "How to do things with Pornography"](https://kiej.georgetown.edu/nancy-bauer-things-pornography-harvard-university-press-2015/)
@@ -67,7 +79,7 @@ To this point, these resources have been mainly gathered from the [Objectificati
 * [Pornography and Dehumanization: The Essentialist Dimension](https://sci-hub.se/https://doi.org/10.1080/00048402.2019.1700291), Eleonore Neufeld
   > The objective of this paper is to shed light on one central mechanism through which pornography dehumanizes women. I will show that pornography essentializes women — roughly, that it represents them as belonging to certain kinds, breeds, or species whose behaviour is constrained by laws governing the kind—and that the essentialist picture of women depicted in pornography is one key element of its dehumanizing machinery.
 
-### Relevant Authors
+### Authors
 #### [Simone de Beauvoir](https://en.wikipedia.org/wiki/Simone_de_Beauvoir)
 
 > a French writer, intellectual, existentialist philosopher, political activist, feminist, and social theorist. Though she did not consider herself a philosopher, she had a significant influence on both feminist existentialism and feminist theory.
